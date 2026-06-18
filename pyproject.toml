@@ -11,6 +11,6 @@ Repository = "https://github.com/mmuuai/mumu-gpt-image2"
 "Bug Tracker" = "https://github.com/mmuuai/mumu-gpt-image2/issues"
 
 [tool.comfy]
-PublisherId = "mumu"
+PublisherId = "mumuai"
 DisplayName = "玩AI的木木--GPT Image2 图像生成"
 Icon = ""
