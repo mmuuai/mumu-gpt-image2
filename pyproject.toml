@@ -1,0 +1,16 @@
+[project]
+name = "mumu-gpt-image2"
+description = "ComfyUI custom node for GPT Image2 text-to-image and image-to-image generation through OpenAI-compatible endpoints."
+version = "0.1.0"
+license = { text = "MIT" }
+requires-python = ">=3.10"
+dependencies = []
+
+[project.urls]
+Repository = "https://github.com/mmuuai/mumu-gpt-image2"
+"Bug Tracker" = "https://github.com/mmuuai/mumu-gpt-image2/issues"
+
+[tool.comfy]
+PublisherId = "mumu"
+DisplayName = "玩AI的木木--GPT Image2 图像生成"
+Icon = ""
