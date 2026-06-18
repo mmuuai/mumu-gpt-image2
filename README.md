@@ -1,4 +1,4 @@
-# GPT-Image-2图像生成--玩AI的木木
+# 玩AI的木木-GPT-Image2图像生成
 
 ComfyUI 自定义节点，调用 OpenAI 兼容的 `gpt-image-2` 图像接口，支持文生图和图生图。
 
