@@ -650,5 +650,5 @@ NODE_CLASS_MAPPINGS = {
 }
 
 NODE_DISPLAY_NAME_MAPPINGS = {
-    "MumuGPTImage2": "玩AI的木木--GPT Image2 图像生成",
+    "MumuGPTImage2": "木木--GPT-Image-2",
 }
